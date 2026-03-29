@@ -1,0 +1,63 @@
+{
+  "DeepSeek 使い方": [
+    {"keyword": "DeepSeek 始め方 2026", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 無料版でできること", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 日本語で使う方法", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek プロンプトの書き方", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek チャット 使い方ガイド", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek アプリ ダウンロード方法", "priority": "medium", "status": "pending"}
+  ],
+  "DeepSeek 料金・プラン": [
+    {"keyword": "DeepSeek 料金プラン 2026年最新", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 無料 有料 違い", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek API 料金 ChatGPT比較", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek コスト効率が高い理由", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek API 従量課金の仕組み", "priority": "medium", "status": "pending"}
+  ],
+  "DeepSeek vs ChatGPT": [
+    {"keyword": "DeepSeek ChatGPT 比較 2026年最新", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek vs Claude どっちがいい", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek vs Gemini 性能比較", "priority": "high", "status": "pending"},
+    {"keyword": "AI チャットボット おすすめ 2026", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek コーディング能力 ChatGPT比較", "priority": "medium", "status": "pending"}
+  ],
+  "DeepSeek 最新ニュース": [
+    {"keyword": "DeepSeek V4 1兆パラメータ 詳細", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 156カ国 DL1位 理由", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 2026年 最新アップデート", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 米国規制 影響", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek 企業評価額 資金調達", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek オープンソース戦略", "priority": "medium", "status": "pending"}
+  ],
+  "DeepSeek R1モデル": [
+    {"keyword": "DeepSeek R1 性能 徹底解説", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek R1 推論能力 GPT-o1比較", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek R1 Chain of Thought 仕組み", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek R1 数学・コーディング性能", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek R1 Lite vs R1 違い", "priority": "medium", "status": "pending"}
+  ],
+  "DeepSeek API": [
+    {"keyword": "DeepSeek API 入門ガイド", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek API Python サンプルコード", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek API 料金体系 詳細", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek API OpenAI互換 使い方", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek API レート制限 ベストプラクティス", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek API ファインチューニング", "priority": "low", "status": "pending"}
+  ],
+  "中国AI比較": [
+    {"keyword": "中国AI サービス 一覧 2026", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek vs Baidu ERNIE 比較", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek vs Alibaba Qwen 比較", "priority": "medium", "status": "pending"},
+    {"keyword": "中国AI データプライバシー 注意点", "priority": "high", "status": "pending"},
+    {"keyword": "中国AI 日本企業 導入事例", "priority": "medium", "status": "pending"},
+    {"keyword": "中国AI 規制 最新動向 2026", "priority": "medium", "status": "pending"}
+  ],
+  "DeepSeek 活用事例": [
+    {"keyword": "DeepSeek ビジネス活用 事例集", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek プログラミング 活用術", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 学習 勉強 活用法", "priority": "high", "status": "pending"},
+    {"keyword": "DeepSeek 翻訳 精度 レビュー", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek 論文要約 研究活用", "priority": "medium", "status": "pending"},
+    {"keyword": "DeepSeek ブログ記事作成 活用", "priority": "medium", "status": "pending"}
+  ]
+}
