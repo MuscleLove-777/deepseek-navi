@@ -148,7 +148,8 @@
     {
       "keyword": "DeepSeek API 入門ガイド",
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "done_at": "2026-05-19T10:01:55.265274"
     },
     {
       "keyword": "DeepSeek API Python サンプルコード",
