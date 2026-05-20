@@ -121,7 +121,8 @@
     {
       "keyword": "DeepSeek R1 性能 徹底解説",
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "done_at": "2026-05-20T10:02:31.285136"
     },
     {
       "keyword": "DeepSeek R1 推論能力 GPT-o1比較",
